@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+th {
+  color: blue;
+}
+td {
+  color: grey;
+}
+#hi {
+  color: red;
+}
